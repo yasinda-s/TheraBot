@@ -1,0 +1,18 @@
+{"intents": [
+    {"tag": "neutral",
+    "responses": ["Oh okay", "Hmm", "I see","Is that so?", "Ah, I see", "Interesting"]
+    },
+    {"tag": "happy",
+    "responses": ["I'm so happy for you! \uD83D\uDE0A", "That's great. I'm happy that you're happy \uD83D\uDE0A", "Amazing! \uD83D\uDE0A", "Well that makes me happy to hear \uD83D\uDE0A", "So glad to hear that \uD83D\uDE0A", "You deserve the joy you feel \uD83D\uDE0C" , "I'm happy to hear that \uD83D\uDE0C", "Yayyyy \uD83E\uDD73", "This does put a smile on my face", "That amazing to hear \uD83E\uDD29", "Good job! \uD83E\uDD73", "I'm applauding you", "Let's go, that's good news! \uD83E\uDD73"]
+    },
+    {"tag": "sad",
+     "responses": ["I feel your pain. It's not the end of the world. ❤️", "I understand, but you have more to live for.", "Sometimes taking a break helps. Do something you like and enjoy. \uD83C\uDF1F", "What can I do to help you during this hard time? ", "It's alright to cry a little", "I'm all ears if you want to talk \uD83E\uDD17", "I know it is tough, but this feeling would not last forever.", "I am so proud of you for opening up, I want you to know that you are not alone in this. \uD83D\uDC9B", "I care for your well being and I'm proud of you for opening up about your feelings.", "Don't lose hope, there is always more in store for you", "You could start by taking a few deep breaths", "Brighter days will come \uD83C\uDF24", "It's not going to be like this forever", "You're stronger than you think ❤️"]
+    },
+    {"tag": "love",
+    "responses": ["I'm so happy for you! \uD83E\uDD70", "It's nice to know you feel loved \uD83E\uDD70", "Amazing! ☺️", "Well that makes me happy to hear", "So glad to hear that! ☺️", "You deserve the love you feel \uD83E\uDD70", "Love is a pure feeling, I am glad you feel it right now \uD83E\uDD70", "I am glad you feel this way", "I hope you always feel love for yourself and people around you", "Love is a beautiful feeling \uD83E\uDD70"]
+    },
+    {"tag": "anger",
+    "responses": ["I don't blame you for being angry \uD83D\uDE14", "That's terrible \uD83D\uDE15", "I'm sorry you're upset \uD83D\uDE14", "I would've been angry too if I were you", "Is there anything I can do for you? ❤️", "That's so frustrating \uD83D\uDE2A", "Things can be rough sometimes, take a few deep breaths", "Don't let it get to you", "I understand how you feel, I would be angry too if I was you \uD83D\uDE2A", "I understand your anger, but this feeling does not define who you are "]
+    }
+]
+}

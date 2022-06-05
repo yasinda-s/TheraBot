@@ -1,0 +1,31 @@
+{"intents": [
+    {"tag": "greetings",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay", "Yo", "Whats Up", "Howdy", "Heya", "greetings"],
+     "responses": ["Hello", "Hi", "Hi there", "Hi, How are you?", "Hi! nice to meet you", "Whats up?", "Yo whats good", "Hi, how r u today"]
+    },
+    {"tag": "farewell",
+     "patterns": ["Bye", "See you later", "Goodbye", "See ya", "Cya", "Adios", "Talk to you later"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again", "It was nice talking to you", "Until next time", "Catch u next time", "See you later, alligator.", "Catch u next time", "Hope everything goes swell"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help", "Appreciate it"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!", "Don't mention it"]
+    },
+    {"tag": "sad",
+     "patterns": ["terrible", "done with life", "tired of life", "hopeless", "in pain", "empty", "breaking down", "tearing up", "not happy", "sad", "crying", "depressed", "unhappy", "not content", "don't feel good"],
+     "responses": ["I feel your pain. It's not the end of the world.", "I understand, but you have more to live for.", "Sometimes taking a break helps. Do something you like and enjoy.", "What can I do to help you?", "It's ok to cry", "I'm all ears if u want to talk", "I know it’s tough, but this feeling won’t last forever.", "I am so proud of you for opening up, I want you to know that you are not alone in this.", "I care for your wellbeing and I'm proud of you for opening up about your feelings."]
+    },
+    {"tag": "angry",
+    "patterns": ["mad", "livid", "rage", "raging", "furious", "angry", "pissed off", "upset"],
+    "responses": ["I don't blame you for being angry", "That's terrible", "I'll be angry too...", "I'm sorry you're upset", "I would've been angry too if I were you", "Is there anything I can do?", "That's so frustrating"]
+    },
+    {"tag": "fear",
+    "patterns": ["anxious", "anxiety", "stressed", "uneasy", "unease", "worry", "worried", "distress", "agitated", "panic", "stressed out", "scared", "stressing","terror", "terrified"],
+    "responses": ["Relax. Go drink some water to calm yourself down.", "What you're going through it hard. I'm here to help.", "ugh, that sucks!!!", "That must be so difficult...", "I know you’re anxious right now. But whatever happens, I have your back", "You are safe. Take a deep breath.", "It’s totally valid to feel anxious right now."]
+    },
+    {"tag": "joy",
+    "patterns": ["happy", "happy", "pleased", "blessed", "love", "cheerful", "merry", "delighted", "good", "not sad", "not depressed", "glad", "cloud nine"],
+    "responses": ["I'm so happy for you!", "That's great. I'm happy that you're happy", "Amazing!", "Well that makes me happy to hear", "So glad to hear that", "You deserve the joy you feel" ]
+    }
+]
+}
